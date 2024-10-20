@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Dominos \u00C1ngel-Joyce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5897AE8C-A160-D8C2-2D03-35DBA8EEC376}|Assembly-CSharp.csproj|c:\\users\\angel\\dominos \u00E1ngel-joyce\\assets\\cambioescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897AE8C-A160-D8C2-2D03-35DBA8EEC376}|Assembly-CSharp.csproj|solutionrelative:assets\\cambioescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CambioEscena.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Dominos \u00C1ngel-Joyce\\Assets\\CambioEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\CambioEscena.cs",
+              "ToolTip": "C:\\Users\\angel\\Dominos \u00C1ngel-Joyce\\Assets\\CambioEscena.cs*",
+              "RelativeToolTip": "Assets\\CambioEscena.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:56:28.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
